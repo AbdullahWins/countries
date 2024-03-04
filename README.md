@@ -1,17 +1,21 @@
-# @abdullahwins/countries
+Certainly! Here's the updated README with the package name changed to "countrybaba":
+
+````markdown
+# countrybaba
 
 This npm package provides comprehensive data about countries around the world. With detailed information such as international dialing codes, currency details including code, symbol, and name, capital cities, continents, and official languages, it's a valuable resource for developers working on projects involving internationalization, data visualization, or geographical analysis.
 
 ## Installation
 
 ```bash
-npm install @abdullahwins/countries
+npm install countrybaba
 ```
+````
 
 ## Usage
 
 ```javascript
-const countries = require("@abdullahwins/countries");
+const countries = require("countrybaba");
 
 // Get all countries
 const allCountries = countries.countries();
@@ -92,3 +96,8 @@ Get country by currency code.
 ## License
 
 This package is licensed under the MIT License.
+
+```
+
+Feel free to use this updated README for your "countrybaba" package!
+```

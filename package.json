@@ -1,6 +1,6 @@
 {
-  "name": "@abdullahwins/countries",
-  "version": "1.0.0",
+  "name": "countrybaba",
+  "version": "1.0.1",
   "description": "A list of countries along with their",
   "main": "src/countries.js",
   "scripts": {
